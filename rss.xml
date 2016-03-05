@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[..:: Noone'stuff ::...  Nuno Santos - 3D Artist]]></title>
+        <description><![CDATA[..:: Noone'stuff ::...  Nuno Santos - 3D Artist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 18:34:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hey yalll]]></title>
+            <description><![CDATA[<article><h1>Hey yalll</h1><p>Hello</p></article>]]></description>
+            <link>undefinedhey-yalll/index.html</link>
+            <guid isPermaLink="false">ee138f01-9be5-47b5-8fcf-527d8d6ed439</guid>
+            <pubDate>Sat, 05 Mar 2016 18:34:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
