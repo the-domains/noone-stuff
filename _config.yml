@@ -1,7 +1,7 @@
 name: "Noone'stuff"
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.26413
+typography_spectrum: 0.38454
 title: null
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5284555985126644
-  lightness: 0.2822936689481139
-  saturation: 0.38861109665594995
-  rhythmicContrast: 0.16458784718997777
+    - '#000000'
+    - '#266e63'
+    - '#f13627'
+    - '#e79a88'
+    - '#fdfdfd'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
