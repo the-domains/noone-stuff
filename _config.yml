@@ -1,0 +1,28 @@
+name: "Noone'stuff"
+favicon: null
+layout_spectrum: 0.5428366072010249
+typography_spectrum: 0.19594878051429987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5284555985126644
+  lightness: 0.2822936689481139
+  saturation: 0.38861109665594995
+  rhythmicContrast: 0.16458784718997777
+purpose: []
