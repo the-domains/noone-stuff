@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coming Soon!
-datePublished: '2016-08-04T19:28:19.351Z'
-dateModified: '2016-08-04T19:28:13.559Z'
+datePublished: '2016-08-04T19:40:25.073Z'
+dateModified: '2016-08-04T19:40:16.317Z'
 title: ''
 author: []
 via: {}
@@ -17,5 +17,6 @@ starred: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53d61497-7880-43d7-a288-e58f0a1fb204.png)
+
 Coming Soon!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cadb1896-c504-47cd-bd1c-debadff9f45f.png)
