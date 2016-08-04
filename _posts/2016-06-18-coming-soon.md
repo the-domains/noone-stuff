@@ -1,20 +1,22 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
-description: Coming Soon!
-datePublished: '2016-06-18T15:57:11.645Z'
-dateModified: '2016-06-18T15:57:11.279Z'
-title: ''
+description: ''
+datePublished: '2016-08-04T18:55:25.392Z'
+dateModified: '2016-08-04T18:53:15.087Z'
 author: []
+title: Coming Soon!
+via: {}
 authors: []
-publisher: null
-starred: false
+publisher: {}
+starred: true
 sourcePath: _posts/2016-06-18-coming-soon.md
-url: coming-soon/index.html
-_type: Article
+_type: Blurb
 
 ---
-Coming Soon!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec46abc4-b8a3-4bf1-9b13-6874826d15a3.jpg)
+
+# Coming Soon!
