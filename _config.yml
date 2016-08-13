@@ -1,7 +1,7 @@
 name: Noone'stuff
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.60411
+layout_spectrum: 0.8963743462227285
+typography_spectrum: 0.48142386646941304
 title: null
 cta:
   domain: null
@@ -22,8 +22,10 @@ color:
     - '#c7c7c7'
     - '#474747'
     - '#7f7f7f'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 0.1553648989647627
+  lightness: 0.08810741128399968
+  saturation: 0.5623390632681549
+  rhythmicContrast: 0.8729635807685554
 purpose: []
+coverPrefs:
+  filter: false
