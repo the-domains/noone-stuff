@@ -1,20 +1,22 @@
-typography_spectrum: 0.569374566199258
+layout_spectrum: 0.07614265033043921
+typography_spectrum: 0.9441814296878874
 color:
   brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#c7c7c7'
-    - '#474747'
-    - '#7f7f7f'
-  brandStrength: 0.1553648989647627
-  lightness: 0.08810741128399968
-  saturation: 0.5623390632681549
-  rhythmicContrast: 0.8729635807685554
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.7753158661071211
+  lightness: 0.12974836840294302
+  saturation: 0.5243812068365514
+  rhythmicContrast: 0.39589527319185436
+coverPrefs:
+  filter: false
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.18478300119750202
 analytics:
   google: UA-64940557-1
   facebook: null
@@ -37,6 +39,4 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
 title: null
-coverPrefs:
-  filter: false
 purpose: []
