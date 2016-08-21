@@ -31,6 +31,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: ABOUT ME
+    id: 3b4bb801-8c94-4e55-8cf9-ea16e8389603
+    type: content
   - name: CHARACTER
     id: bd6aaa46-b28a-40d4-941a-e5c38405da54
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: HARD SURFACE
     id: f01cf8a0-c019-4366-9bdd-19fbccf27f69
-    type: content
-  - name: ABOUT ME
-    id: 3b4bb801-8c94-4e55-8cf9-ea16e8389603
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
