@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T14:33:24.667Z'
+datePublished: '2016-08-21T14:34:48.656Z'
 sourcePath: _posts/2016-08-04-coming-soon.md
 author: []
 via: {}
@@ -18,7 +18,7 @@ metadata:
   description: Coming Soon!
   inLanguage: null
   inNav: false
-dateModified: '2016-08-21T14:33:23.692Z'
+dateModified: '2016-08-21T14:34:48.172Z'
 title: ''
 id: bdcb12e2-8b02-4e23-b1a7-ffc9b5a2709f
 publisher: {}
