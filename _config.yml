@@ -1,4 +1,5 @@
-typography_spectrum: 0.48142386646941304
+layout_spectrum: 0.18478300119750202
+typography_spectrum: 0.569374566199258
 color:
   brandColors:
     - '#000000'
@@ -10,11 +11,12 @@ color:
   lightness: 0.08810741128399968
   saturation: 0.5623390632681549
   rhythmicContrast: 0.8729635807685554
+coverPrefs:
+  filter: false
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.8963743462227285
 analytics:
   google: UA-64940557-1
   facebook: null
@@ -33,6 +35,4 @@ cta:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
 title: null
-coverPrefs:
-  filter: false
 purpose: []
