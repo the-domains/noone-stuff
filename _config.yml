@@ -1,4 +1,5 @@
-typography_spectrum: 0.9441814296878874
+layout_spectrum: 0.6815619934350252
+typography_spectrum: 0.49241039669141173
 color:
   brandColors:
     - '#DC3522'
@@ -10,11 +11,12 @@ color:
   lightness: 0.12974836840294302
   saturation: 0.5243812068365514
   rhythmicContrast: 0.39589527319185436
+coverPrefs:
+  filter: false
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.07614265033043921
 analytics:
   google: UA-64940557-1
   facebook: null
@@ -42,6 +44,4 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
 title: null
-coverPrefs:
-  filter: false
 purpose: []
