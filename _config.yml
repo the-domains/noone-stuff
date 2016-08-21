@@ -40,9 +40,6 @@ navigation:
   - name: 3D PRINT
     id: 85b98d6f-b95a-4716-83b4-3687acf0d1d6
     type: content
-  - name: ABOUT ME!
-    id: 3b4bb801-8c94-4e55-8cf9-ea16e8389603
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
 title: null
