@@ -1,4 +1,3 @@
-layout_spectrum: 0.8455104280728847
 typography_spectrum: 0.5448017085436732
 color:
   brandColors:
@@ -11,12 +10,11 @@ color:
   lightness: 0.12974836840294302
   saturation: 0.5243812068365514
   rhythmicContrast: 0.39589527319185436
-coverPrefs:
-  filter: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8455104280728847
 analytics:
   google: UA-64940557-1
   facebook: null
@@ -36,11 +34,11 @@ navigation:
   - name: CHARACTER
     id: bd6aaa46-b28a-40d4-941a-e5c38405da54
     type: content
-  - name: HARD SURFACE
-    id: f01cf8a0-c019-4366-9bdd-19fbccf27f69
-    type: content
   - name: 3D PRINT
     id: 85b98d6f-b95a-4716-83b4-3687acf0d1d6
+    type: content
+  - name: HARD SURFACE
+    id: f01cf8a0-c019-4366-9bdd-19fbccf27f69
     type: content
   - name: ABOUT ME
     id: 3b4bb801-8c94-4e55-8cf9-ea16e8389603
@@ -48,4 +46,6 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
 title: null
+coverPrefs:
+  filter: false
 purpose: []
