@@ -30,7 +30,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Character
+  - name: CHARACTER
     id: bd6aaa46-b28a-40d4-941a-e5c38405da54
     type: content
   - name: HARD SURFACE
