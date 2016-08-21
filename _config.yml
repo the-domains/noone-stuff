@@ -1,20 +1,4 @@
-name: Noone'stuff
-favicon: null
-layout_spectrum: 0.8963743462227285
 typography_spectrum: 0.48142386646941304
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-64940557-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,6 +10,29 @@ color:
   lightness: 0.08810741128399968
   saturation: 0.5623390632681549
   rhythmicContrast: 0.8729635807685554
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8963743462227285
+analytics:
+  google: UA-64940557-1
+  facebook: null
+  twitter: null
+author:
+  name: Nuno Santos
+  email: nooneswork@gmail.com
+  url: noonestuff.xyz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd9ebae8-1006-4614-8590-6632bdf8fe03.jpg
+name: Noone'stuff
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff71e09b-c332-4a8d-9e32-3c0b53aaaa50.png
+title: null
 coverPrefs:
   filter: false
+purpose: []
