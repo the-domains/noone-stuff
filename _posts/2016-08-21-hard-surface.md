@@ -1,17 +1,16 @@
 ---
 description: Hard surface
-dateModified: '2016-08-21T14:10:07.205Z'
-datePublished: '2016-08-21T14:10:29.044Z'
+dateModified: '2016-08-21T14:11:22.806Z'
+datePublished: '2016-08-21T14:11:23.211Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-hard-surface.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: hard-surface/index.html
+_type: Blurb
 
 ---
 Hard surface
