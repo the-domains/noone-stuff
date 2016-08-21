@@ -1,17 +1,16 @@
 ---
 description: Character
-dateModified: '2016-08-21T13:56:13.057Z'
-datePublished: '2016-08-21T13:56:49.492Z'
+dateModified: '2016-08-21T13:57:05.205Z'
+datePublished: '2016-08-21T13:57:05.603Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-character.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: character/index.html
+_type: Blurb
 
 ---
 Character
