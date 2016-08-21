@@ -31,11 +31,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About me!
-    id: 3b4bb801-8c94-4e55-8cf9-ea16e8389603
-    type: content
   - name: Character
     id: bd6aaa46-b28a-40d4-941a-e5c38405da54
+    type: content
+  - name: About me!
+    id: 3b4bb801-8c94-4e55-8cf9-ea16e8389603
     type: content
   - name: 3D PRINT
     id: 85b98d6f-b95a-4716-83b4-3687acf0d1d6
